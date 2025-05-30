@@ -1,16 +1,16 @@
 <p align="center">
-<img src="https://files.catbox.moe/eehxb4.jpg" alt="ShrutiMusicBot Logo" width="500px">
+<img src="https://cdn-images.dzcdn.net/images/cover/e3ca9309adb8dba04ba338e651dbea21/0x1900-000000-80-0-0.jpg" alt="CommradeKingMusicBot Logo" width="500px">
 </p>
 
-<h1 align="center">🎵 Shruti Music Bot 🎵</h1>
+<h1 align="center">🎵 Commrade_King_Paadagi 🎵</h1>
 
 <p align="center">
   <b>A Powerful Telegram Music Bot to Play Songs in Voice Chats</b>
 </p>
 
 <p align="center">
-  <a href="https://t.me/ShrutiBots"><img src="https://img.shields.io/badge/Support%20Channel-blue?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/ShrutiBots" alt="Support Channel"></a>
-  <a href="https://t.me/ShrutiBotSupport"><img src="https://img.shields.io/badge/Support%20Group-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Support Group"></a>
+  <a href="https://t.me/Rajavinpaadagi"><img src="https://img.shields.io/badge/Support%20Channel-blue?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/Rajavinpaadagi" alt="Support Channel"></a>
+  <a href="https://t.me/Rajavinpaadagiupport"><img src="https://img.shields.io/badge/Support%20Group-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Support Group"></a>
   <a href="https://t.me/WTF_WhyMeeh"><img src="https://img.shields.io/badge/Owner-purple?style=for-the-badge&logo=telegram&logoColor=white" alt="Owner"></a>
 </p>
 
@@ -190,7 +190,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For any questions or help, join our [Support Group](https://t.me/ShrutiBotSupport)
+For any questions or help, join our [Support Group](https://t.me/Rajavinpaadagiupport)
 
 <p align="center">
 <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-NoxxOP-red?style=for-the-badge" alt="Made with love">
