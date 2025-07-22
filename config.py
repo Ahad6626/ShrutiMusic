@@ -13,20 +13,20 @@ load_dotenv()
 # 📲 Telegram & API Credentials
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-API_ID = int(os.getenv("API_ID"))
-API_HASH = os.getenv("API_HASH")
-BOT_TOKEN = os.getenv("BOT_TOKEN")
-OWNER_ID = int(os.getenv("OWNER_ID", None))
-OWNER_USERNAME = os.getenv("OWNER_USERNAME", "WTF_WhyMeeh")
+API_ID = int(os.getenv("20536100"))
+API_HASH = os.getenv("5e3694deb111a38fe4aba250eb37af6a")
+BOT_TOKEN = os.getenv("7408662813:AAFVjRXCtR3xxzRqLo43MS6jB2Lrt07zCjU")
+OWNER_ID = int(os.getenv("7740205974", None))
+OWNER_USERNAME = os.getenv("OWNER_USERNAME", "_⏤⵿⵿꤫꤫⛦⃕‌𝄟‌‌ا۬‌𝆺𝅥⃝𝄄꯭꯭💚𝐋꯭๏꯭꯭᪱֟፝Ꮶ𝐈✾꯭‌⃝⃘🩵⃘꯭꯭ ㅤ")
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 🛠️ Database & Deployment Configs
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-MONGO_DB_URI = os.getenv("MONGO_DB_URI", None)
-LOG_GROUP_ID = int(os.getenv("LOG_GROUP_ID", None))
-HEROKU_APP_NAME = os.getenv("HEROKU_APP_NAME")
-HEROKU_API_KEY = os.getenv("HEROKU_API_KEY")
+MONGO_DB_URI = os.getenv("mongodb+srv://ahaan:ahaad@ahaan.hgkeruq.mongodb.net/?retryWrites=true&w=majority&appName=ahaan", None)
+LOG_GROUP_ID = int(os.getenv("-1002715558595", None))
+HEROKU_APP_NAME = os.getenv("Ivan")
+HEROKU_API_KEY = os.getenv("HRKU-AAIjc4I0PHhMq_cbiZMs0zHUYjUnxQRhGM3rCgJbmMBw_w8GZKOTuIJz")
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 🔄 Git & Update Settings
@@ -40,8 +40,8 @@ GIT_TOKEN = os.getenv("GIT_TOKEN", None)
 # 🔗 Support Links
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/ShrutiBots")
-SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/ShrutiBotSupport")
+SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/Preetibotupdates")
+SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/+m63eJ-Mc_jpjMzll")
 PRIVACY_LINK = os.getenv("PRIVACY_LINK", "https://graph.org/Privacy-Policy-05-01-30")
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -70,7 +70,7 @@ SPOTIFY_CLIENT_SECRET = os.getenv("SPOTIFY_CLIENT_SECRET", None)
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 STRING1 = os.getenv("STRING_SESSION", None)
-STRING2 = os.getenv("STRING_SESSION2", None)
+STRING2 = os.getenv("BQE5WyQAu_qzqzayakEqvmeIzOI2YU8nEvYosDqzJFbg101JExLxL8-JniHXiydPqL0r2JT9vgTGe24Z_8jbr37vVi8eT1lGYBFSb2v91jKEd_BxRkHfdUsMZYmzTh1whhSRuv1Zst1zQJeGSmG7XFgBTKdMUsDoWV6p6s9-u4rRjK65Fq-dUhTfET9Ku3X-aGP6MzhGb5AS7nQIuGkR0YKORnEDhvADVCDKYW8IkD4pAO4I1zoHpstRWzfBZ6AMsoAicoH4NZo6WjGDTy2EkEsYiixLCoGszR9IW9frAImjVkZF1kh4eF9W1YIN44QIcDZdBIY9GRbccTRpoT-wmZwdJZkmpwAAAAHZ-5b0AA", None)
 STRING3 = os.getenv("STRING_SESSION3", None)
 STRING4 = os.getenv("STRING_SESSION4", None)
 STRING5 = os.getenv("STRING_SESSION5", None)
