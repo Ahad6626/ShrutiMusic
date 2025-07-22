@@ -16,17 +16,17 @@ load_dotenv()
 API_ID = int(os.getenv("API_ID","28209312"))
 API_HASH = os.getenv("API_HASH","89def84a7894bb696ff20174c86889a4")
 BOT_TOKEN = os.getenv("BOT_TOKEN","7408662813:AAFVjRXCtR3xxzRqLo43MS6jB2Lrt07zCjU")
-OWNER_ID = int(os.getenv("OWNER_ID", ""))
-OWNER_USERNAME = os.getenv("OWNER_USERNAME", "")
+OWNER_ID = int(os.getenv("OWNER_ID", "7740205974"))
+OWNER_USERNAME = os.getenv("OWNER_USERNAME", "QIPLVX")
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 🛠️ Database & Deployment Configs
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 MONGO_DB_URI = os.getenv("MONGO_DB_URI","mongodb+srv://ahaan:ahaad@ahaan.hgkeruq.mongodb.net/?retryWrites=true&w=majority&appName=ahaan", None)
-LOG_GROUP_ID = int(os.getenv("LOG_GROUP_ID", ""))
-HEROKU_APP_NAME = os.getenv("HEROKU_APP_NAME","")
-HEROKU_API_KEY = os.getenv("HEROKU_API_KEY","")
+LOG_GROUP_ID = int(os.getenv("LOG_GROUP_ID", "-1002715558595"))
+HEROKU_APP_NAME = os.getenv("HEROKU_APP_NAME","Ivan")
+HEROKU_API_KEY = os.getenv("HEROKU_API_KEY","HRKU-AAIjc4I0PHhMq_cbiZMs0zHUYjUnxQRhGM3rCgJbmMBw_w8GZKOTuIJz")
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 🔄 Git & Update Settings
