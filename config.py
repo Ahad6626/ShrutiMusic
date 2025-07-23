@@ -23,7 +23,7 @@ OWNER_USERNAME = os.getenv("OWNER_USERNAME", "QIPLVX")
 # 🛠️ Database & Deployment Configs
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://ahaan:ahaad@ahaan.hgkeruq.mongodb.net/?retryWrites=true&w=majority&appName=ahaan")
+MONGO_DB_URL = getenv("MONGO_DB_URI", "mongodb+srv://ahaan:ahaad@ahaan.hgkeruq.mongodb.net/?retryWrites=true&w=majority&appName=ahaan")
 LOG_GROUP_ID = int(os.getenv("LOG_GROUP_ID", "-1002715558595"))
 HEROKU_APP_NAME = os.getenv("HEROKU_APP_NAME","Ivan")
 HEROKU_API_KEY = os.getenv("HEROKU_API_KEY","HRKU-AAIjc4I0PHhMq_cbiZMs0zHUYjUnxQRhGM3rCgJbmMBw_w8GZKOTuIJz")
