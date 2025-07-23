@@ -17,7 +17,7 @@ API_ID = int(getenv("API_ID","20536100"))
 API_HASH = os.getenv("API_HASH","5e3694deb111a38fe4aba250eb37af6a")
 BOT_TOKEN = os.getenv("BOT_TOKEN","7788967953:AAGgJRo-xJHCExkiPyS2qjB6zkPwyzTBl84")
 OWNER_ID = int(os.getenv("OWNER_ID", "7740205974"))
-OWNER_USERNAME = os.getenv("OWNER_USERNAME", "QIPLVX")
+OWNER_USERNAME = os.getenv("OWNER_USERNAME","QIPLVX")
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 🛠️ Database & Deployment Configs
