@@ -18,14 +18,14 @@ API_ID = int(getenv("API_ID","20536100"))
 API_HASH = os.getenv("API_HASH","5e3694deb111a38fe4aba250eb37af6a")
 BOT_TOKEN = os.getenv("BOT_TOKEN","7788967953:AAGgJRo-xJHCExkiPyS2qjB6zkPwyzTBl84")
 OWNER_ID = int(os.getenv("OWNER_ID", "7740205974"))
-OWNER_USERNAME = os.getenv("OWNER_USERNAME","QIPLVX")
+OWNER_USERNAME = os.getenv("OWNER_USERNAME","Pikachu_Music_Bot")
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 🛠️ Database & Deployment Configs
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 MONGO_DB_URL = getenv("MONGO_DB_URL", "mongodb+srv://ahaan:ahaad@ahaan.hgkeruq.mongodb.net/?retryWrites=true&w=majority&appName=ahaan")
-LOG_GROUP_ID = int(os.getenv("LOG_GROUP_ID", "-1002715558595"))
+LOG_GROUP_ID = int(os.getenv("LOG_GROUP_ID", "-1002791009509"))
 HEROKU_APP_NAME = os.getenv("HEROKU_APP_NAME","Ivan")
 HEROKU_API_KEY = os.getenv("HEROKU_API_KEY","HRKU-AAIjc4I0PHhMq_cbiZMs0zHUYjUnxQRhGM3rCgJbmMBw_w8GZKOTuIJz")
 
@@ -41,8 +41,8 @@ GIT_TOKEN = os.getenv("GIT_TOKEN", None)
 # 🔗 Support Links
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/Preetibotupdates")
-SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/+m63eJ-Mc_jpjMzll")
+SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/EX_BOT_UPDATES")
+SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/+G42j7plUt91mYmQx")
 PRIVACY_LINK = os.getenv("PRIVACY_LINK", "https://graph.org/Privacy-Policy-05-01-30")
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -70,7 +70,7 @@ SPOTIFY_CLIENT_SECRET = os.getenv("SPOTIFY_CLIENT_SECRET", None)
 # 🧵 Session Strings (Pyrogram V2)
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-STRING1 = os.getenv("STRING_SESSION","BQE5WyQAZsV3Ty6EjCQhv-2t6XLJxtY5BcZMY7nOB2fr4uGkgOqmxPD_6W7MofhZ0OWT1MZ42VMx8EOorJa1TvBZWBlFpeO_L8UnFJJehEq8RRIPqYmOYAe6FS64mzNpF2GOUufA4pEVlv2vXfroN2CBCJzz9sKgBcfmmwFP64qu_1VvctE8ZexrVnjjC-0U3siHDFhzikEP-vSQy1WMH5qKlog7EWYajJ20P2oDTm4DWYS8wkO4a8Df4wRFIT-BPFXkRknk4HDEnRaL3LC846bqjpTz_AwlIzejgF5X6iRYQqua3adeP10lUWHYLRAKi3ASKY08OeAeMaWY2f5ptDOKsYi2xQAAAAHaZxLyAA")
+STRING1 = os.getenv("STRING_SESSION",None)
 STRING2 = os.getenv("STRING_SESSION2", None)
 STRING3 = os.getenv("STRING_SESSION3", None)
 STRING4 = os.getenv("STRING_SESSION4", None)
@@ -137,5 +137,5 @@ if SUPPORT_GROUP:
         )
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-#     ✅ CONFIG LOADED SUCCESSFULLY | Designed By @WTF_WhyMeeh
+#     ✅ CONFIG LOADED SUCCESSFULLY | Designed By @x9Ahad
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
